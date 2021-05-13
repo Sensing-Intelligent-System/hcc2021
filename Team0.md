@@ -1,12 +1,14 @@
 # Team [x]
 
 ## Members
-* Name1 (github account: xxxxxxxxxxx), Team Lead and Point of Contact
-* Name2 (github account: xxxxxxxxxxx)
+* 江瑋程(github account: yolofellow376)
+* 林俊德(github account: LinJuDe)
+* 陳維治(github account: Cynventria)
+* 藍天祈(github account: TCLan-4186)
 
 
 ## Laptop Setup and Remote Access
-* Laptop 1: Native Ubuntu 18, ROS Melidic 
-* Laptop 2: VirtualBox, Ubuntu 18, ROS Melidic 
+* Laptop 1: Window 10 WSL - Ubuntu 18.04, ROS Melidic 
+
 
 
