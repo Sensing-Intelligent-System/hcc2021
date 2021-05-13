@@ -1,6 +1,7 @@
 # Team [x]
 
 ## Members
+
 * Name1 (github account: xxxxxxxxxxx), Team Lead and Point of Contact
 * Name2 (github account: xxxxxxxxxxx)
 
