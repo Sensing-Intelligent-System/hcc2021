@@ -9,6 +9,7 @@
 
 ## Laptop Setup and Remote Access
 * Laptop 1: Native Ubuntu 18, ROS Melidic 
-* Laptop 2: VirtualBox, Ubuntu 18, ROS Melidic 
+* Laptop 2: Native Ubuntu 18, ROS Melidic 
+* Laptop 3: Mac
 
 
